@@ -1,4 +1,4 @@
-# Hi, I'm George 👋
+# Hi, I'm Ting.
 
 ```text
                    ✦ ·  ·  ✧   a little workflow with Clawd   ✧  ·  · ✦
