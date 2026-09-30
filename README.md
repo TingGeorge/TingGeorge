@@ -1,18 +1,5 @@
 # Hi, I'm Ting.
 
-```text
-                   ✦ ·  ·  ✧   a little workflow with Clawd   ✧  ·  · ✦
-
-  ╭────────────╮      ╭────────────╮      ╭────────────╮      ╭────────────╮      ╭────────────╮
-  │ what if..? │      │ step 1,2,3 │      │  tap tap!  │      │ all green  │      │ ship it!!  │
-  ╰──┬─────────╯      ╰──┬─────────╯      ╰──┬─────────╯      ╰──┬─────────╯      ╰──┬─────────╯
-     ╰╮                  ╰╮                  ╰╮                  ╰╮                  ╰╮
-   ▐▛███▜▌             ▐▛███▜▌  ☰          ▐▛███▜▌  ╺┳╸        ▐▛███▜▌  ✓          ▐▛███▜▌  ✦
-  ▝▜█████▛▘ ?     ─▶  ▝▜█████▛▘       ─▶  ▝▜█████▛▘  ┃    ─▶  ▝▜█████▛▘ ✓     ─▶  ▝▜█████▛▘
-    ▘▘ ▝▝               ▘▘ ▝▝               ▘▘ ▝▝               ▘▘ ▝▝   ✓           ▘▘ ▝▝   ✦
-  ═══════════════════════════════════════════════════════════════════════════════════════════════
-    1 DISCUSS             2 PLAN             3 BUILD             4 VERIFY            5 DEPLOY
-   chat & ideas        map the path         write code         test & check        hello world
-        ▲                                                                               │
-        ╰────────────────────── ↺  and again, happily forever  ↺ ───────────────────────╯
-```
+<p align="center">
+  <img src="assets/clawd-workflow.svg" width="100%" alt="Clawd walks through Discuss, Plan, Build, Verify and Deploy, then loops back to the start" />
+</p>
