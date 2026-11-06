@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="assets/clawd-workflow.svg" width="100%" alt="Clawd walks through Discuss, Plan, Build, Verify and Deploy, then loops back to the start" />
+  <img src="assets/heroes/hero-14-rain.svg" width="100%" alt="Hi, I'm Ting. I build with AI, agents, frontier tech and cool things." />
 </p>
