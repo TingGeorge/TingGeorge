@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" width="1200" height="420" role="img" aria-label="HI, I'M TING. I build with AI, agents, frontier tech and cool things."><defs><style>
+svg{--bg:#08080a;--fg:#f4f4f5;--dim:#8a8a93;--faint:#3a3a40;--line:#1b1b1f;}
+@media (prefers-color-scheme: light){svg{--bg:#f4f4f5;--fg:#18181b;--dim:#6b6b74;--faint:#b4b4bb;--line:#e1e1e4;}}
+.bg{fill:var(--bg);}
+text{font-family:ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;white-space:pre;}
+.fg{fill:var(--fg);} .dim{fill:var(--dim);} .faint{fill:var(--faint);}
+.ln{fill:var(--line);}
+.cr{fill:var(--fg);}
+.tp{transform-box:fill-box;transform-origin:0 0;transform:scaleX(0);}
+.on{opacity:0;animation:on .01s linear forwards;}
+@keyframes on{to{opacity:1;}}
+.off{animation:off .01s linear forwards;}
+@keyframes off{to{opacity:0;}}
+.bl{animation:bl 1.05s steps(1) infinite;}
+@keyframes bl{0%{opacity:1;}50%{opacity:0;}}
+#c1 rect{animation:tyc1 0.51s steps(6,end) 0.50s forwards;}@keyframes tyc1{to{transform:scaleX(1);}}#c2 rect{animation:tyc2 0.91s steps(13,end) 2.16s forwards;}@keyframes tyc2{to{transform:scaleX(1);}}@keyframes kw0{0%{transform:scaleX(0);}1.562%{transform:scaleX(0);animation-timing-function:steps(2,end);}2.625%{transform:scaleX(1);}23.188%{transform:scaleX(1);animation-timing-function:steps(2,end);}23.750%,100%{transform:scaleX(0);}}#k0 rect{animation:kw0 16.0s linear 3.62s infinite;}@keyframes kw1{0%{transform:scaleX(0);}26.562%{transform:scaleX(0);animation-timing-function:steps(6,end);}29.750%{transform:scaleX(1);}47.062%{transform:scaleX(1);animation-timing-function:steps(6,end);}48.750%,100%{transform:scaleX(0);}}#k1 rect{animation:kw1 16.0s linear 3.62s infinite;}@keyframes kw2{0%{transform:scaleX(0);}51.562%{transform:scaleX(0);animation-timing-function:steps(13,end);}58.469%{transform:scaleX(1);}70.094%{transform:scaleX(1);animation-timing-function:steps(13,end);}73.750%,100%{transform:scaleX(0);}}#k2 rect{animation:kw2 16.0s linear 3.62s infinite;}@keyframes kw3{0%{transform:scaleX(0);}76.562%{transform:scaleX(0);animation-timing-function:steps(11,end);}82.406%{transform:scaleX(1);}95.656%{transform:scaleX(1);animation-timing-function:steps(11,end);}98.750%,100%{transform:scaleX(0);}}#k3 rect{animation:kw3 16.0s linear 3.62s infinite;}@keyframes kc{0.000%{transform:translateX(0);}1.562%{transform:translateX(0);animation-timing-function:steps(2,end);}2.625%{transform:translateX(48.0px);}23.188%{transform:translateX(48.0px);animation-timing-function:steps(2,end);}23.750%{transform:translateX(0);}25.000%{transform:translateX(0);}26.562%{transform:translateX(0);animation-timing-function:steps(6,end);}29.750%{transform:translateX(144.0px);}47.062%{transform:translateX(144.0px);animation-timing-function:steps(6,end);}48.750%{transform:translateX(0);}50.000%{transform:translateX(0);}51.562%{transform:translateX(0);animation-timing-function:steps(13,end);}58.469%{transform:translateX(312.0px);}70.094%{transform:translateX(312.0px);animation-timing-function:steps(13,end);}73.750%{transform:translateX(0);}75.000%{transform:translateX(0);}76.562%{transform:translateX(0);animation-timing-function:steps(11,end);}82.406%{transform:translateX(264.0px);}95.656%{transform:translateX(264.0px);animation-timing-function:steps(11,end);}98.750%{transform:translateX(0);}100%{transform:translateX(0);}}.kc{animation:kc 16.0s linear 3.62s infinite;}@media (prefers-reduced-motion: reduce){
+*{animation:none !important;}
+.on{opacity:1;} .off{opacity:1;} .tp{transform:scaleX(1);}
+.kwt{display:none;} .kwt.w0{display:inline;} .cr{display:none;}
+}</style><clipPath id="frame"><rect width="1200" height="420" rx="20"/></clipPath></defs><g clip-path="url(#frame)"><rect class="bg" width="1200" height="420"/>
+<text class="faint" x="84" y="42" font-size="13">ting@studio  ~/work</text>
+<text class="faint" x="1116" y="42" font-size="13" text-anchor="end">zsh  120x32</text>
+<rect class="ln" x="84" y="56" width="1032" height="1"/>
+<rect class="ln" x="84" y="362" width="1032" height="1"/>
+<text class="faint" x="84" y="386" font-size="13">main  utf-8  agent: idle</text>
+<text class="faint" x="1116" y="386" font-size="13" text-anchor="end">ln 4, col 22</text>
+<text class="dim" x="84" y="104" font-size="20">$</text>
+<g class="on" style="animation-delay:0.00s"><g class="off" style="animation-delay:0.50s"><rect class="cr bl" x="110.0" y="88.4" width="6.6" height="18.0"/></g></g>
+<clipPath id="c1"><rect class="tp" x="108.0" y="84" width="72.0" height="28.0"/></clipPath>
+<text class="fg" x="108.0" y="104" font-size="20" font-weight="400" textLength="72.0" lengthAdjust="spacingAndGlyphs" clip-path="url(#c1)">whoami</text>
+<g class="on" style="animation-delay:0.50s"><g class="off" style="animation-delay:1.16s"><rect class="cr" x="182.0" y="88.4" width="6.6" height="18.0"/></g></g>
+<text class="fg on" x="81" y="176" font-size="60" font-weight="700" textLength="468" lengthAdjust="spacingAndGlyphs" style="animation-delay:1.31s">HI, I&apos;M TING.</text>
+<text class="dim on" x="84" y="232" font-size="20" style="animation-delay:1.91s">$</text>
+<clipPath id="c2"><rect class="tp" x="108.0" y="212" width="156.0" height="28.0"/></clipPath>
+<text class="fg" x="108.0" y="232" font-size="20" font-weight="400" textLength="156.0" lengthAdjust="spacingAndGlyphs" clip-path="url(#c2)">cat stack.txt</text>
+<g class="on" style="animation-delay:1.91s"><g class="off" style="animation-delay:3.22s"><rect class="cr" x="266.0" y="216.4" width="6.6" height="18.0"/></g></g>
+<text class="dim on" x="84" y="300" font-size="40" textLength="312.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:3.42s">I build with </text>
+<clipPath id="k0"><rect class="tp" x="396.0" y="260" width="48.0" height="56.0"/></clipPath>
+<text class="fg kwt w0" x="396.0" y="300" font-size="40" font-weight="700" textLength="48.0" lengthAdjust="spacingAndGlyphs" clip-path="url(#k0)">AI</text>
+<clipPath id="k1"><rect class="tp" x="396.0" y="260" width="144.0" height="56.0"/></clipPath>
+<text class="fg kwt w1" x="396.0" y="300" font-size="40" font-weight="700" textLength="144.0" lengthAdjust="spacingAndGlyphs" clip-path="url(#k1)">AGENTS</text>
+<clipPath id="k2"><rect class="tp" x="396.0" y="260" width="312.0" height="56.0"/></clipPath>
+<text class="fg kwt w2" x="396.0" y="300" font-size="40" font-weight="700" textLength="312.0" lengthAdjust="spacingAndGlyphs" clip-path="url(#k2)">FRONTIER TECH</text>
+<clipPath id="k3"><rect class="tp" x="396.0" y="260" width="264.0" height="56.0"/></clipPath>
+<text class="fg kwt w3" x="396.0" y="300" font-size="40" font-weight="700" textLength="264.0" lengthAdjust="spacingAndGlyphs" clip-path="url(#k3)">COOL THINGS</text>
+<g class="on" style="animation-delay:3.42s"><g class="kc"><rect class="cr bl" x="399.0" y="268.8" width="13.2" height="36.0"/></g></g></g></svg>
